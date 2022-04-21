@@ -9,7 +9,7 @@ Investigate demo e-commerce application - http://automationpractice.com/index.ph
 	5. Create Github repository and push your assignment solution with the documentation on how to run the automated tests there (focus on writing comprehensive Readme file)
 	6. Report bugs if you find any, with detailed steps to reproduce
 
-Note: Test cases and bug reports can be in any format you find suitable.
+**Note:** Test cases and bug reports can be in any format you find suitable.
 
 ________________________________________________________________________________
 
@@ -44,8 +44,18 @@ ________________________________________________________________________________
 
 # Reported bugs
 	Reset password functionality
+	
 	Checking "Sort by: Price - highest first" functionality
+	
 	Checking "Sort by: Product name - Z to A" functionality
+__________________________________________________________________________________
+
+# Automated *smoke* test case
+
+**Test case description:** Checking "Sign out" functionality 
+
+	Test Case ID: ABHTC04
+	
 
 
 
