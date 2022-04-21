@@ -40,4 +40,12 @@ ________________________________________________________________________________
 	Checking "Sort by: Product name - A to Z" functionality
 
 	Checking "Sort by: Product name - Z to A" functionality
+_________________________________________________________________________________
+
+# Reported bugs
+	Reset password functionality
+	Checking "Sort by: Price - highest first" functionality
+	Checking "Sort by: Product name - Z to A" functionality
+
+
 
