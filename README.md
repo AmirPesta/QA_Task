@@ -12,5 +12,4 @@ Investigate demo e-commerce application - http://automationpractice.com/index.ph
 Note: Test cases and bug reports can be in any format you find suitable.
 
 ________________________________________________________________________________
-# Test cases and Bugs reports in file:
-	[TC_&_BR_ABH.xlsx](https://github.com/AmirPesta/QA_Task/files/8531528/TC_._BR_ABH.xlsx)
+
