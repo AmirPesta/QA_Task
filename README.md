@@ -13,3 +13,31 @@ Note: Test cases and bug reports can be in any format you find suitable.
 
 ________________________________________________________________________________
 
+# Functionalities and Web Elements tested
+
+	Registration new account to the website respecting mandatory rules
+
+	Registration new account to the website without respecting mandatory fields
+
+	Sign in to the website  as registered user
+
+	Checking "Sign out" functionality 
+
+	Change password of registered user and log in with new password
+
+	Testing functionality for address update
+
+	Reset password functionality
+
+	Create new Wishlist as registered user
+
+	Adding new products to created whishlist
+
+	Checking "Sort by: Price - lowest first" functionality
+
+	Checking "Sort by: Price - highest first" functionality
+
+	Checking "Sort by: Product name - A to Z" functionality
+
+	Checking "Sort by: Product name - Z to A" functionality
+
