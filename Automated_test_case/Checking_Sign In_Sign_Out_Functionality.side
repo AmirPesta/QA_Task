@@ -1,0 +1,84 @@
+{
+  "id": "8450bac5-f193-4c24-9e69-06b03e587f78",
+  "version": "2.0",
+  "name": "Checking \"Sign out\" functionality ",
+  "url": "http://automationpractice.com",
+  "tests": [{
+    "id": "08f42dde-f5b3-4ef9-8ed8-45f20d091669",
+    "name": "LogInOut",
+    "commands": [{
+      "id": "af0274e4-fb48-47c4-9a64-fe09ab920e09",
+      "comment": "",
+      "command": "open",
+      "target": "/index.php",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5e827490-9935-4c20-adfa-dad6de8903a5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1580x1200",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "72ac1cc6-9d2e-44f6-86ba-64f02b33fb97",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Sign in",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9757fe3c-6bc5-43b8-a4ce-b330c0285baf",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ac637c70-924f-4fcd-8df5-beaffde18ec9",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [],
+      "value": "ismrismrd@gmail.com\\n"
+    }, {
+      "id": "6d1462f9-0d45-4189-952c-211d60886729",
+      "comment": "",
+      "command": "click",
+      "target": "id=passwd",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2c9a5422-bed4-4ddc-aaa7-a801cb5daedc",
+      "comment": "",
+      "command": "type",
+      "target": "id=passwd",
+      "targets": [],
+      "value": "Lozinka01"
+    }, {
+      "id": "f2671a9d-b90e-4afe-9d81-6f089f3d6bfb",
+      "comment": "",
+      "command": "click",
+      "target": "css=#SubmitLogin > span",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d0b8dce4-05ee-4c0e-bda9-22d32bd2f1b5",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Sign out",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ec08a046-3308-448e-bc5b-983194eea64d",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://automationpractice.com/"],
+  "plugins": []
+}
