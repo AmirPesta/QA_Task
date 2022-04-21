@@ -1,0 +1,11 @@
+Running 'LogInOut'
+open on /index.php OK
+setWindowSize on 1580x1200 OK
+click on linkText=Sign in OK
+click on id=email OK
+type on id=email with value ismrismrd@gmail.com\n OK
+click on id=passwd OK
+type on id=passwd with value Lozinka01 OK
+click on css=#SubmitLogin > span OK
+click on linkText=Sign out OK
+# 'LogInOut' completed successfully
